@@ -5,7 +5,7 @@ module.exports = {
     doc: {
         name: "NRules 中文",
         description: "NRules 是 .NET 的开源生产规则引擎，基于 Rete 匹配算法",
-        version: "0.9.0",
+        version: "1.0.0",
         dir: "",
         outDir: "",
         staticDir: ""
